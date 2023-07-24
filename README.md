@@ -14,9 +14,9 @@
 - [Data](#data)
 - [Methods](#methods)
 - [Results](#results)
-- [Built with](#builtwith)
+- [Built with](#built-with)
 - [Authors](#authors)
-- [Repository Structure](#repositorystructure)
+- [Repository Structure](#repository-structure)
 
 ## Overview
 The project aims to provide data-driven insights to support Microsoft's new movie studio in establishing a successful presence in the movie industry. The business problem revolves around Microsoft's lack of expertise in film-making and the need to make informed decisions for profitable movie production. I analyzed diverse movie datasets from IMDb, Box Office Mojo, and The Numbers to answer key data questions related to movie success. By exploring top-performing films, successful genres, budget impacts, seasonal trends, audience preferences, and competition, I derived actionable recommendations for Microsoft.
